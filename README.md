@@ -63,7 +63,10 @@ Stay tuned for some awesome plots dropping here soon!
 
 **Gaurav Gawade** An astrophysicist with a passion for the big questions: supermassive black holes, AGN feedback, and the co-evolution of galaxies. I build data-driven projects to explore the cosmos.
 
-[CV](#) | [Portfolio](#) | [Say Hi!](#)
+[Personal Website]([thapedash.github.io/gaurav_gawade/](https://tshapedash.github.io/gaurav_gawade/))
+| [Portfolio](https://github.com/TshapedAsh)
+| [Say Hi!](mailto:gaurav.gawade@xaviers.edu.in)
+
 
 ---
 
@@ -73,7 +76,7 @@ Wanna run this yourself? Easy.
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/YourUsername/AGN-Host-Galaxies-SDSS.git](https://github.com/YourUsername/AGN-Host-Galaxies-SDSS.git)
+    git clone [https://github.com/TshapedAsh/AGN-Host-Galaxies-SDSS.git](https://github.com/TshapedAsh/AGN-Host-Galaxies-SDSS.git)
     cd AGN-Host-Galaxies-SDSS
     ```
 
