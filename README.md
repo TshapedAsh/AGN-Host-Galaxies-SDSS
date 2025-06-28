@@ -1,5 +1,4 @@
-# 🌌 Galactic Homes of Hungry Black Holes
-### An SDSS Deep Dive into AGN Host Galaxies
+# 🌌 AGN-Host-Galaxies-SDSS
 
 > What's the difference between a galaxy with a quiet supermassive black hole (SMBH) and one with a raging, luminous Active Galactic Nucleus (AGN) at its core? This project is all about answering that question.
 
