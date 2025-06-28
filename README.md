@@ -29,15 +29,19 @@ This is part of a broader portfolio exploring supermassive black holes (SMBH), A
 ---
 
 
-📂 Project Structure:
-  AGN-Host-Galaxies-SDSS/
-    ├── data/          # 📡 SDSS AGN and non-AGN samples
-    ├── notebooks/     # 📓 Jupyter notebooks for analysis
-    ├── scripts/       # 🛠️ SDSS query scripts and helpers
-    ├── outputs/       # 📊 Visuals, plots, and tables
-    ├── README.md      # 📘 Project overview
-    ├── LICENSE.md     # ⚖️ MIT license for open reuse
-    └── requirements.txt  # 📦 Python environment dependencies
+<details> <summary><strong>📂 Project Structure</strong></summary>
+text
+Copy
+Edit
+AGN-Host-Galaxies-SDSS/
+├── data/           📡 SDSS AGN and non-AGN samples  
+├── notebooks/      📓 Jupyter notebooks for analysis  
+├── scripts/        🛠️ SDSS query scripts and helpers  
+├── outputs/        📊 Visuals, plots, and tables  
+├── README.md       📘 Project overview  
+├── LICENSE.md      ⚖️ MIT license for open reuse  
+└── requirements.txt 📦 Python environment dependencies  
+</details>
 
 
 
