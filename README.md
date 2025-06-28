@@ -63,7 +63,7 @@ Stay tuned for some awesome plots dropping here soon!
 
 **Gaurav Gawade** An astrophysicist with a passion for the big questions: supermassive black holes, AGN feedback, and the co-evolution of galaxies. I build data-driven projects to explore the cosmos.
 
-[Personal Website]([thapedash.github.io/gaurav_gawade/](https://tshapedash.github.io/gaurav_gawade/))
+[Personal Website](https://tshapedash.github.io/gaurav_gawade/)
 | [Portfolio](https://github.com/TshapedAsh)
 | [Say Hi!](mailto:gaurav.gawade@xaviers.edu.in)
 
